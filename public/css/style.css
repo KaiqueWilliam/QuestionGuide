@@ -1,0 +1,18 @@
+body {
+    background-color: #eceff1;
+}
+
+#formulario-pergunta {
+    margin-top: 5vh;
+}
+
+.navbar-brand img {
+    max-width:50px;
+    max-height:50px;
+    width: auto;
+    height: auto;
+}
+
+.separation{
+    margin-bottom: 1vh;
+}
