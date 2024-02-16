@@ -15,3 +15,5 @@ It is required to have MySQL and NodeJS installed. Once cloned, <guiaperguntas/d
 
 Once the setup is done, type 'npm install' on the terminal so all the dependencies can be installed - { "body-parser": "^1.20.2","ejs": "^3.1.9","express": "^4.18.2","mysql2": "^3.8.0","sequelize": "^6.35.2" }
 run it using "npm run build".
+
+it's hosted by default at http://localhost:1313/ 
