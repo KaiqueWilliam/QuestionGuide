@@ -1,5 +1,5 @@
 ## Question Guide
-A simple responsive bootstrap-based question guide using node.js, express.js and mysql (sequelize) for back-end.
+A simple responsive bootstrap-based question guide using javaScript, node.js, express.js and mysql (sequelize) for back-end.
 
 ![image](https://github.com/KaiqueWilliam/QuestionGuide/assets/130838195/b8d08361-c142-494e-a02b-156e0a9a6b8b)
 
